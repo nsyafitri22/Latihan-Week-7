@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Digunakan untuk pilih bengkel yang ingin dicari</description>
+   <name>kategori</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fe761088-87fc-44f3-8b90-a79d75acf7cb</testCaseGuid>
+</TestCaseEntity>

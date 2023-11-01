@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Ke halaman katalog bengkel mobil</description>
+   <name>katalog</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>0b82e289-364e-45df-9a33-fbcc023d3c7e</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>97abf836-e4da-4b72-a339-a596ea038747</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>482f3b6e-cbd5-4356-93e0-f66a54aa35d0</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>7a505894-ae7e-40ab-be69-839f28853d0c</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Butik Oli Mobil'</defaultValue>
+      <description></description>
+      <id>97abf836-e4da-4b72-a339-a596ea038747</id>
+      <masked>false</masked>
+      <name>namaBengkel</name>
+   </variable>
+   <variable>
+      <defaultValue>'Jakarta Utara'</defaultValue>
+      <description></description>
+      <id>482f3b6e-cbd5-4356-93e0-f66a54aa35d0</id>
+      <masked>false</masked>
+      <name>lokasiBengkel</name>
+   </variable>
+   <variable>
+      <defaultValue>'4.9'</defaultValue>
+      <description></description>
+      <id>7a505894-ae7e-40ab-be69-839f28853d0c</id>
+      <masked>false</masked>
+      <name>rating</name>
+   </variable>
+</TestCaseEntity>
