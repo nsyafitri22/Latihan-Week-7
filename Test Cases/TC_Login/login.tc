@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Ke halaman masuk/login website moservice</description>
+   <name>login</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2de80a6b-f13f-4632-9027-36e8f8305528</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>5bd24c27-3844-4666-9ad6-5b4862e622b2</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>a5d2d91f-3857-4ea4-b04b-c4eefdf5ac05</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'087888017875'</defaultValue>
+      <description></description>
+      <id>5bd24c27-3844-4666-9ad6-5b4862e622b2</id>
+      <masked>false</masked>
+      <name>emailphone</name>
+   </variable>
+   <variable>
+      <defaultValue>'Baba1234'</defaultValue>
+      <description></description>
+      <id>a5d2d91f-3857-4ea4-b04b-c4eefdf5ac05</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>
